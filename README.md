@@ -10,4 +10,5 @@ how strongly a candidate aligns/maligns with their views.
 
 ## Data Sources
 - [Sunlight Labs](https://sunlightlabs.github.io)
-- [VoteSmart](https://votesmart.org)
+- [VoteSmart](https://votesmart.org) (Can't register for API).
+- [GovTrack](https://www.govtrack.us/developers)
